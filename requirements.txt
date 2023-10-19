@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+python_dotenv
+clickhouse_driver
+clickhouse_sqlalchemy
+sendgrid
+prefect
+oauth2client
+gspread_dataframe

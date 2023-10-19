@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "core-outrider-377712",
+    "private_key_id": "b19bf5f164b1186701d5ed4cb353b690eb854cd6",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpIebBKvScjYNQ\nCNGyZ82AsN42SQBOJ2rACjQ90Hjp8DXZsip+2bliAFmWV01wGj8MerZKyXgEhn2u\nE5LbFRzKB56yfKGnVe8JfKtu6ALT+tuQeXnpoN5o1UeY3mfxN6RWAm7b2qlfn2DL\nKBzXZaj5apO0TUx1Rx9azSub/ZDIDqIUze92gvp0RdUU4/+HTEcPciRSViJzr5ZC\nX89JhEiuzjLP/y+yjY5pV34tr4DBh2Z+xuxH5oxub1sSq5OgILdcTXGEBIU6DPw0\ntYRMPKVbyFfYGa8L3dfIouxWQUssihYiOHAY8Nqh6t8brRj6qXBEL72J9aHQeTr/\niKHXRzFbAgMBAAECggEADiphulIPtMEBe4WRkqCxDJNDuUY5+VHB1h3ErFy2k9lj\nmT0b5A32QegHmNjtCnOYTkJE3FStcauWAStwhFrrU1x6BTb9Dxfacm/3p81U105O\nb3ZNKK0pk5wxZ/NQv1pKsE153X4d631czQcqCzxff6xWfKZwve3cCW3ftivxoV+9\ndC4cIdZMXQt/svXBMx0lzlz0iiP57XWVjxe4kaSmOJRC52rzzJTCDgqkeUODz7Fg\noM7i41HQwHPWCCNBtNrq4pOm1jZyBog9Pyp8nJV+aFoGSMZEWKogBErZ0rBuNJzG\n2hRRH76raqGMXRyWA8IFuYjy08JLmqV+MFpJGD09sQKBgQDdzpjN4moRXloo2kon\nk32oUoK41ioX8dqm3pfyuKmgDhuBnhujyK9uBLXRqaor+slgRWouap9tVMeOb2hZ\n/md1qPZNhflPS2WCGuf9rzOvF+TJPa40kKvG9w035j0UtqHiqu/5KgZ8UM3b8pk4\neJV+EgXyiHYCVtCxeGJkqVIXmQKBgQDDNI1DiLKHdGrGdxH6POuiEntXMVbmG88a\nu3LO7isGCNHe9mJwvrNsJMwXUqGFUUwSJ6mF71dBUg+YN49wqQRPe4kSRqWqw2hi\nk3L2uskdK0pFw0vaDBSC+IjH0GgqGWxagmAN5mPmxIu7oevDBDLAc/xZmBba/SzP\n9ak5792ZEwKBgAtm+HH1BrDX4dihyBgau+XwP+oSkF1kwHG9laAToByrPPy/zPnx\nchs8wMADcc0K+lkpmFjEgGeVaSDIV1vw+Q6SXf8EORm7bX9vtKdU31pL5yX1NsRa\n/4md358VBeTPsqi9UtLDN0wit0JsSTYe9MhjUszx+OcL4XSOFLjJ/39ZAoGAUvew\nHwcn0ljR1T7gnjpscHtofxvScoVZVmRbnMYv9SWkhh60onT7b7iIIlWVn0N5kLHY\n5Ltgm7vUMv9ScTD1Sw8XqHPskBLz+AnxsBqdxk8TB2nFgIzn3u7hvAPBcjtSCXom\nd2H4Dip1ta9RtJbBN3lUxYPWGwfGlzEz1xMzXY8CgYEAjtxqBWFzsi7kYePoqZXG\nDgN1ErIfROhJfSiWb0v3NS47ju2CV2e+O5uXbaNsylJXT1jVHvc6l4Jwnvikkcbq\nICyRZUqGAMgqajzyix3PBxgnmQE8TpuySdiN+6NzGZEFykh3BKKtfUn/A8cvKLQd\noH2c0rcsM8NwgcX8Ju3DfPM=\n-----END PRIVATE KEY-----\n",
+    "client_email": "google-sheet-automation@core-outrider-377712.iam.gserviceaccount.com",
+    "client_id": "113423615461064776084",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheet-automation%40core-outrider-377712.iam.gserviceaccount.com"
+  }
